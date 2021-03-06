@@ -39,6 +39,8 @@
   &__plus {
     @apply --toolbox-button;
 
+    width: 24px;
+    height: 24px;
     position: absolute;
     left: calc(var(--toolbox-buttons-size) * -1);
     flex-shrink: 0;

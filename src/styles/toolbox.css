@@ -16,6 +16,7 @@
   &--opened {
     opacity: 1;
     visibility: visible;
+    padding: 0 20px 0 20px
   }
 
   &__button {
